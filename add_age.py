@@ -7,7 +7,7 @@ def main():
         return
 
     total_age = age + 20
-    print(f"Total age after adding 20: {total_age}")
+    print(f"Total age after adding : {total_age}")
 
 
 if __name__ == "__main__":
